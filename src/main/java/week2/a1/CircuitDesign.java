@@ -277,7 +277,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Bag<Item> implements Iterable<Item> {
@@ -389,7 +389,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class DepthFirstOrder {
@@ -599,7 +599,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Digraph {
@@ -813,7 +813,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class DirectedEdge {
@@ -895,7 +895,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class EdgeWeightedDigraph {
@@ -1124,7 +1124,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class KosarajuSharirSCC {
@@ -1261,7 +1261,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Queue<Item> implements Iterable<Item> {
@@ -1423,7 +1423,7 @@ class CircuitDesign {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Stack<Item> implements Iterable<Item> {

@@ -288,7 +288,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Bag<Item> implements Iterable<Item> {
@@ -401,7 +401,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class DepthFirstOrder {
@@ -611,7 +611,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Digraph {
@@ -825,7 +825,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class DirectedEdge {
@@ -907,7 +907,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class EdgeWeightedDigraph {
@@ -1136,7 +1136,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class KosarajuSharirSCC {
@@ -1274,7 +1274,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Queue<Item> implements Iterable<Item> {
@@ -1437,7 +1437,7 @@ public class RescheduleExams {
   }
 
   /**
-   * @author yzq, yzq@leyantech.com
+   * @author yzq, yzq
    * @date 2020-11-22.
    */
   public static class Stack<Item> implements Iterable<Item> {

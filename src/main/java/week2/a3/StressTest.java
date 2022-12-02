@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * @author yzq, yzq@leyantech.com
+ * @author yzq, yzq
  * @date 2020-11-23.
  */
 public class StressTest {
